@@ -35,7 +35,7 @@ implemented by TensorFlow version 2.0 style
 
 | *MNIST* |
 |---|
-| <img src='autoregressive/pics/lstm_mnist.png'> |
+| <img src='pics/lstm_mnist.png'> |
 
 #### Transformer with MNIST
 * Attention is All You Need [arXiv:1706.03762](https://arxiv.org/abs/1706.03762)
@@ -43,7 +43,7 @@ implemented by TensorFlow version 2.0 style
 
 | *MNIST* |
 |---|
-| <img src='autoregressive/pics/transformer_mnist.png'> |
+| <img src='pics/transformer_mnist.png'> |
 
 ### Normalizing Flow Models [with MNIST]
 

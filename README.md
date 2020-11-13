@@ -54,4 +54,4 @@ implemented by TensorFlow version 2.0 style
 Il Gu Yi, Soochul Park
 
 ### Slides
-[Notion link](https://www.notion.so/soochul/Generative-Models-12-4-6-353a0bbc5e0847fab4c864fb4332d9af?showMoveTo=true)
+[Notion link](https://www.notion.so/soochul/Generative-Models-Autoregressive-Flow-51e8767d99d34be5ad0786034c032347)

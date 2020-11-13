@@ -24,14 +24,12 @@ implemented by TensorFlow version 2.0 style
 ### AutoRegressive Models [with MNIST]
 
 #### Fully Visible Sigmoid Belief Networks
-* [fvsbn.ipynb](https://nbviewer.jupyter.org/github/ilguyi/generative.models.tensorflow.v2/blob/master/autoregressive/fvsbn.ipynb)
 
 | *MNIST* | *Fashion MNIST* |
 |---|---|
 | <img src='https://user-images.githubusercontent.com/11681225/57566483-068d6180-7408-11e9-9b92-6781e6ceb4af.gif'> | <img src='https://user-images.githubusercontent.com/11681225/57566471-eb225680-7407-11e9-85f5-04b7258d9b83.gif'> |
 
 #### LSTM with MNIST
-* [lstm_mnist.ipynb](https://nbviewer.jupyter.org/github/scpark20/generative.models.tensorflow.v2/blob/master/autoregressive/lstm_mnist.ipynb)
 
 | *MNIST* |
 |---|
@@ -39,7 +37,6 @@ implemented by TensorFlow version 2.0 style
 
 #### Transformer with MNIST
 * Attention is All You Need [arXiv:1706.03762](https://arxiv.org/abs/1706.03762)
-* [transformer_mnist.ipynb](https://nbviewer.jupyter.org/github/scpark20/generative.models.tensorflow.v2/blob/master/autoregressive/transformer_mnist.ipynb)
 
 | *MNIST* |
 |---|
@@ -48,7 +45,6 @@ implemented by TensorFlow version 2.0 style
 ### Normalizing Flow Models [with MNIST]
 
 #### NICE: Non-Linear Independent Components Estimation
-* [nice.ipynb](https://nbviewer.jupyter.org/github/ilguyi/generative.models.tensorflow.v2/blob/master/normalizing_flow/nice.ipynb)
 
 ## Author
 Il Gu Yi, Soochul Park
